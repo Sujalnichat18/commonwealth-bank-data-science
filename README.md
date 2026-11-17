@@ -72,6 +72,7 @@ The project includes an interactive Power BI dashboard to analyse social media e
 **Tools:** Power BI, MySQL, SQL
 
 [View Dashboard Files](dashboard/)
+![Social Media Analytics Dashboard](dashboard/dashboard-overview.png)
 
 ## Programme
 
