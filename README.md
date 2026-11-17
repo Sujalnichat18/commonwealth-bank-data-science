@@ -74,6 +74,22 @@ The project includes an interactive Power BI dashboard to analyse social media e
 [View Dashboard Files](dashboard/)
 ![Social Media Analytics Dashboard](dashboard/dashboard-overview.png)
 
+## Key Findings
+
+Based on the 60-post simulated social media dataset:
+
+- Fraud & scams generated the highest total engagement.
+- Positive sentiment appeared in 25 posts, neutral in 20, and negative in 15.
+- Morning posts recorded the highest total engagement.
+- Text + video posts had the highest average engagement rate.
+- 11 posts were identified as requiring a response.
+
+## Project Limitations
+
+- The social media dataset contains simulated data for learning purposes.
+- Findings describe this sample only and should not be interpreted as actual Commonwealth Bank performance.
+
+
 ## Programme
 
 [Commonwealth Bank – Introduction to Data Science on Forage](https://www.theforage.com/simulations/commonwealth-bank/intro-data-science-sd7t/completed)
