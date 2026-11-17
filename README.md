@@ -59,12 +59,19 @@ These are descriptive results from the 60-post simulated dataset only. They shou
 - `docs/privacy-notes.md` – anonymisation concepts and limitations
 - `sql/social_media_schema.sql` – original illustrative MySQL schema
 
-## Next steps
+## Power BI Dashboard
 
-- Implement and test the schema in MySQL.
-- Write SQL queries for engagement and response prioritisation.
-- Build a Power BI dashboard using an openly licensed or independently generated dataset.
-- Extend the analysis with Python.
+The project includes an interactive Power BI dashboard to analyse social media engagement and performance.
+
+**Dashboard highlights:**
+- Total tweets, likes, and engagement KPIs
+- Engagement by user
+- Likes by tweet
+- Engagement trend over time
+
+**Tools:** Power BI, MySQL, SQL
+
+[View Dashboard Files](dashboard/)
 
 ## Programme
 
